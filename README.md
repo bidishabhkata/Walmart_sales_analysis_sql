@@ -10,7 +10,7 @@ To analyze Walmart sales data using SQL to uncover insights about product perfor
 ## 🛠️ Tools Used
 
 * **SQL**: MySQL
-* **Dataset**: Walmart Sales Data (Structured in a relational database with a `sales` table)
+* **Dataset**: The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
 
 ---
 
